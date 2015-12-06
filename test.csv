@@ -1,0 +1,3 @@
+group,host,ip
+GroupA,HostA,1.1.1.1
+GroupB,HostB,2.2.2.2

@@ -1,4 +1,9 @@
 # -*- coding: utf-8 -*-
 
-div ZAB2.x(hoge,hoge2=200,hoge3)
+class TemplateB:
+  
 
+
+
+
+  def ZAB2.x(hoge,hoge2=200,hoge3):

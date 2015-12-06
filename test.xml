@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<zabbix_export>
+	<version>2.0</version>
+	<date>2015-11-30T01:25:49Z</date>
+	<groups>
+		<group>
+			<name>AAA</name>
+		</group>
+	</groups>
+	<templates>
+		<template>
+			<template>BBB</template>
+			<name>CCC</name>
+			<groups>
+				<group>
+					<name>AAA</name>
+				</group>
+			</groups>
+		</template>
+	</templates>
+</zabbix_export>
